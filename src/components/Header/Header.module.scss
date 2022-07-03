@@ -4,9 +4,12 @@
     padding-top: 50px;
 
     &__logo {
-        width: 175px;
-        height: 51px;
         margin-right: auto;
+
+        & img {
+            width: 175px;
+            height: 51px;
+        }
     }
 
     &__container {
@@ -42,10 +45,12 @@
         color: $white;
         padding: 15px 15px 10px;
         display: block;
+
         &:hover::after {
             transform: scale(1);
 
         }
+
         &:after {
             content: "";
             height: 2px;

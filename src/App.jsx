@@ -1,11 +1,22 @@
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+} from "react-router-dom";
+import Category from "./pages/Category";
 import Home from "./pages/Home";
 
 
-const App =() => {
+const App = () => {
   return (
-    <div className="App">
-      <Home>  </Home>
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <Routes>
+          <Route path="/" element={<Home/>} />
+          <Route path="/category/:type" element={<Category/>} /> 
+        </Routes>
+      </div>
+    </BrowserRouter>
   );
 }
 
