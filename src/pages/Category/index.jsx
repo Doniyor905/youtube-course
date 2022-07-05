@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 import Header from '../../components/Header'
 import ProductCard from '../../components/ProductCard'
 import Container from '../../layout/Container'
+import DiscountsCarousel from "../../components/DiscountsCarousel"
 import classes from './Category.module.scss'
 
 const Category = () => {
@@ -24,6 +25,7 @@ const Category = () => {
           <ProductCard key={card.id} data={card} className={classes["card-item"]} />
           )}
       </Container>
+      <DiscountsCarousel></DiscountsCarousel>
     </>
   )
 }

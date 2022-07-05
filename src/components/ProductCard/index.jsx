@@ -14,7 +14,7 @@ const ProductCard = ({ className, data }) => {
         <div className={classNames(classes["card"], className)}>
             <img src={image} alt={data.name} className={classes["card__image"]} />
             <h3 className={classes["card__title"]}>{data.name}</h3>
-            <p className={classes["card__text"]}>{data.price}USD. <span className={classes["card__discount"]}>{data.discount} USD.</span></p>
+            <p className={classes["card__text"]}>{data.price}USD. {data.discount && <span className={classes["card__discount"]}>{data.discount} USD.</span>}</p>
             <button
                 onClick={selectItem}
                 className={classNames(
