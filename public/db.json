@@ -12,17 +12,6 @@
             "discount": 1000000
         },
         {
-            "id": 0,
-            "name": "Basket No 1",
-            "category": "flowers",
-            "images": [
-                "https://toshkentgullari.uz/thumb/2/27vEFLnhhAasXn51U4ij7Q/400r400/d/img_0105.jpg",
-                "https://toshkentgullari.uz/d/img_0107_2.jpg"
-            ],
-            "price": 1500000,
-            "discount": 1000000
-        },
-        {
             "id": 1,
             "name": "Basket No 2",
             "category": "flowers",
