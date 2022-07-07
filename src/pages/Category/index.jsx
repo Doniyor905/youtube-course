@@ -17,7 +17,7 @@ const Category = () => {
   const {text:title} = categories.find(item => item.link === pathname)
   useEffect(()=> {
     const fetchData = async () => {
-      const data = await fetch(`http://localhost:4000/products?category=${type}`)
+      const data = await fetch(`${process.env.REACT_APP_API_URL}/floristman_items?category=${type}`)
       const cards = await data.json()
       setData(cards)
     }

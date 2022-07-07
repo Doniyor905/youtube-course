@@ -25,10 +25,13 @@ const Cart = () => {
                 ))
                 )}
                 {!cartEmpty && (
+                   <>
                     <div className={classes["total"]}>
                         <p className={classes['total__description']}>Total:</p>
                         <p className={classes["total__amount"]}> {total} $</p>
                     </div>
+                    <button className={classes["order-button"]}>Order</button>
+                    </>
                 )}
             </Container>
             <DiscountsCarousel ></DiscountsCarousel>

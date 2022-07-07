@@ -14,7 +14,7 @@ const DiscountsCarousel = () => {
     const {like , cart: cartItems} = useSelector((state)=>state)
     useEffect(() => {
         const fetchData = async () => {
-            const res = await fetch('http://localhost:4000/discounts')
+            const res = await fetch(`${process.env.REACT_APP_API_URL}/floristman_discounts`)
             const discounts = await res.json()
             setData(discounts)
         }
