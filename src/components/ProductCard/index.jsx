@@ -3,17 +3,21 @@ import { useDispatch } from 'react-redux/es/exports';
 import { faHeart as faHeartSolid } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import classNames from 'classnames';
-import {handleLike} from "../../redux/favoriteSlice"
+import { handleLike } from "../../redux/favorite"
 
 import React, { useState } from 'react';
 import classes from "./ProductCard.module.scss";
-const ProductCard = ({ className, data, liked }) => {
+import { addToCart, removeFromCart } from '../../redux/Cart';
+
+const ProductCard = ({ className, data, liked, selected }) => {
     const dispatch = useDispatch()
     const [image] = data.images;
-    const [selected, setSelected] = useState(false);
-    const selectItem = () => setSelected((prevState) => !prevState)
+    const selectItem = () => {
+       dispatch(selected ? removeFromCart(data.id) : addToCart(data)) 
+    }
     const handleLikeButtonClick = () => dispatch(handleLike(data))
-    
+
+
 
     return (
         <div className={classNames(classes["card"], className)}>

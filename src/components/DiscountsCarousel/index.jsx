@@ -11,7 +11,7 @@ import "./DiscountCarousel.styles.scss";
 
 const DiscountsCarousel = () => {
     const [data, setData] = useState(null)
-    const {like} = useSelector((state)=>state)
+    const {like , cart: cartItems} = useSelector((state)=>state)
     useEffect(() => {
         const fetchData = async () => {
             const res = await fetch('http://localhost:4000/discounts')
@@ -31,7 +31,7 @@ const DiscountsCarousel = () => {
             >
                 {data.map((item) => (
                     <SwiperSlide key={item.id}>
-                        <ProductCard data={item} liked={item.id in like}/>
+                        <ProductCard data={item} liked={item.id in like} selected={item.id in cartItems}/>
                     </SwiperSlide>
                 ))}
             </Swiper>}

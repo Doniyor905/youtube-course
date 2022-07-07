@@ -1,4 +1,4 @@
-import { createSlice } from '@reduxjs/toolkit'
+import { createSelector, createSlice } from '@reduxjs/toolkit'
 const initialState = JSON.parse(localStorage.getItem('favorite') || '{}')
 
 export const favoriteSlice = createSlice({

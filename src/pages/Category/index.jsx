@@ -12,7 +12,7 @@ import categories from '../../routes/categories';
 const Category = () => {
   const { type } = useParams()
   const {pathname} = useLocation()
-  const {like} = useSelector(state=>state)
+  const {like, cart: cartItems} = useSelector(state=>state)
   const [data, setData] = useState(null)
   const {text:title} = categories.find(item => item.link === pathname)
   useEffect(()=> {
@@ -29,7 +29,12 @@ const Category = () => {
       {title && <Title>{title}</Title>}
       <Container className={classes["cards"]}>
         {data && data.map(card =>
-          <ProductCard key={card.id} data={card} className={classes["card-item"]} liked={card.id in like}/>
+          <ProductCard 
+          key={card.id} 
+          data={card} 
+          className={classes["card-item"]} 
+          liked={card.id in like}
+          selected={card.id in cartItems}/>
           )}
       </Container>
       <DiscountsCarousel></DiscountsCarousel>

@@ -8,8 +8,8 @@
                 "https://toshkentgullari.uz/thumb/2/27vEFLnhhAasXn51U4ij7Q/400r400/d/img_0105.jpg",
                 "https://toshkentgullari.uz/d/img_0107_2.jpg"
             ],
-            "price": 1500000,
-            "discount": 1000000
+            "price": 150,
+            "discount": 100
         },
         {
             "id": 1,
@@ -18,8 +18,8 @@
             "images": [
                 "https://toshkentgullari.uz/thumb/2/v5yws9Qo8yUwrslJ8T1Rlw/400r400/d/img_0061_2.jpg"
             ],
-            "price": 150000,
-            "discount": 10100000
+            "price": 150,
+            "discount": 101
         },
         {
             "id": 2,
@@ -29,8 +29,8 @@
                 "https://toshkentgullari.uz/thumb/2/bcq_weLLp_Y7KRshIYShcw/400r400/d/img_8174.jpg",
                 "https://toshkentgullari.uz/thumb/2/F_bfRRbLjmWtyIEDV5McOA/400r400/d/img_8175.jpg"
             ],
-            "price": 150000,
-            "discount": 100000
+            "price": 150,
+            "discount": 100
         },
         {
             "id": 3,
@@ -40,8 +40,8 @@
                 "https://toshkentgullari.uz/thumb/2/jTsCcZtlM6PLQx-fqtiMbA/400r400/d/img_8933.jpg",
                 "https://toshkentgullari.uz/thumb/2/_JklaBmhVedLegUrFihykA/400r400/d/img_8934.jpg"
             ],
-            "price": 180000,
-            "discount": 150000
+            "price": 180,
+            "discount": 150
         },
         {
             "id": 14,
@@ -50,8 +50,8 @@
             "images": [
                 "http://cdn.shopify.com/s/files/1/1507/9940/products/Deluxe-Fruit-Basket-10-Types-of-Fruits-Fruit-Basket_1200x1200.jpg?v=1634579686"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 11,
@@ -60,8 +60,8 @@
             "images": [
                 "https://m.media-amazon.com/images/I/51QliHi9pqL._AC_SL1000_.jpg"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 70,
+            "discount": 40
         }
     ],
     "products": [
@@ -73,7 +73,7 @@
                 "https://toshkentgullari.uz/thumb/2/27vEFLnhhAasXn51U4ij7Q/400r400/d/img_0105.jpg",
                 "https://toshkentgullari.uz/d/img_0107_2.jpg"
             ],
-            "price": 1500000
+            "price": 150
         },
         {
             "id": 1,
@@ -82,8 +82,8 @@
             "images": [
                 "https://toshkentgullari.uz/thumb/2/v5yws9Qo8yUwrslJ8T1Rlw/400r400/d/img_0061_2.jpg"
             ],
-            "price": 150000,
-            "discount": 10100000
+            "price": 150,
+            "discount": 101
         },
         {
             "id": 2,
@@ -93,8 +93,8 @@
                 "https://toshkentgullari.uz/thumb/2/bcq_weLLp_Y7KRshIYShcw/400r400/d/img_8174.jpg",
                 "https://toshkentgullari.uz/thumb/2/F_bfRRbLjmWtyIEDV5McOA/400r400/d/img_8175.jpg"
             ],
-            "price": 150000,
-            "discount": 100000
+            "price": 15,
+            "discount": 10
         },
         {
             "id": 3,
@@ -104,8 +104,8 @@
                 "https://toshkentgullari.uz/thumb/2/jTsCcZtlM6PLQx-fqtiMbA/400r400/d/img_8933.jpg",
                 "https://toshkentgullari.uz/thumb/2/_JklaBmhVedLegUrFihykA/400r400/d/img_8934.jpg"
             ],
-            "price": 180000,
-            "discount": 150000
+            "price": 180,
+            "discount": 150
         },
         {
             "id": 4,
@@ -114,8 +114,8 @@
             "images": [
                 "https://static.toiimg.com/photo/87304656.cms"
             ],
-            "price": 80000,
-            "discount": 50000
+            "price": 80,
+            "discount": 50
         },
         {
             "id": 5,
@@ -124,8 +124,8 @@
             "images": [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvkfk6AoRbQfHu_2ihHsu2k3PRI77DbPHIipnGVOdU_NcJfNUTvUt7DYuWzJo-YuBE0c&usqp=CAU"
             ],
-            "price": 90000,
-            "discount": 60000
+            "price": 90,
+            "discount": 60
         },
         {
             "id": 6,
@@ -134,8 +134,8 @@
             "images": [
                 "https://www.tasteofhome.com/wp-content/uploads/2020/09/pakistani-mithai-506731275.jpg?fit=700,800"
             ],
-            "price": 70000,
-            "discount": 40000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 7,
@@ -144,8 +144,8 @@
             "images": [
                 "https://www.oyorooms.com/blog/wp-content/uploads/2018/07/shutterstock_725231338.jpg"
             ],
-            "price": 70000,
-            "discount": 40000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 8,
@@ -154,8 +154,8 @@
             "images": [
                 "https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_500x500_$&$product=PartyCity/909620"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 70,
+            "discount": 40
         },
         {
             "id": 9,
@@ -164,8 +164,8 @@
             "images": [
                 "https://media.istockphoto.com/vectors/blue-balloon-on-white-background-vector-id897005126?k=20&m=897005126&s=170667a&w=0&h=gHVlulVn07oGLsqsqTAtz14IhKUf1xopuS4VdmKQ0Cs="
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 70,
+            "discount": 40
         },
         {
             "id": 10,
@@ -174,8 +174,8 @@
             "images": [
                 "https://media.istockphoto.com/photos/yellow-party-balloon-isolated-on-white-picture-id182732883?k=20&m=182732883&s=170667a&w=0&h=gXmqbPxxP1B7ZbtmacBOV73O4Oip1dROZirbA4cowEM="
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 11,
@@ -184,8 +184,8 @@
             "images": [
                 "https://m.media-amazon.com/images/I/51QliHi9pqL._AC_SL1000_.jpg"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 70,
+            "discount": 40
         },
         {
             "id": 12,
@@ -194,8 +194,8 @@
             "images": [
                 "https://fyf.tac-cdn.net/images/products/large/FYF-870.jpg?auto=webp&quality=60&width=690"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 13,
@@ -204,8 +204,8 @@
             "images": [
                 "https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFZWmU2eW1pMkwuX1NMMTUwMF8uanBn.jpg"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 70,
+            "discount": 40
         },
         {
             "id": 14,
@@ -214,8 +214,8 @@
             "images": [
                 "http://cdn.shopify.com/s/files/1/1507/9940/products/Deluxe-Fruit-Basket-10-Types-of-Fruits-Fruit-Basket_1200x1200.jpg?v=1634579686"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 70,
+            "discount": 40
         },
         {
             "id": 15,
@@ -224,8 +224,8 @@
             "images": [
                 "https://thumbs.dreamstime.com/z/fruit-basket-18329115.jpg"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 16,
@@ -234,8 +234,8 @@
             "images": [
                 "https://www.gardendesign.com/pictures/images/900x705Max/dream-team-s-portland-garden_6/chinese-evergreen-plant-aglaonema-shutterstock-com_15962.jpg"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 17,
@@ -244,8 +244,8 @@
             "images": [
                 "https://empire-s3-production.bobvila.com/slides/34358/vertical_slide_wide/snake-plant.jpg?1572459883"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 18,
@@ -254,8 +254,8 @@
             "images": [
                 "https://m.media-amazon.com/images/I/613Ym7NDU4L._SX466_.jpg"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 19,
@@ -264,8 +264,8 @@
             "images": [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnKphQOC1_9t9GSq9fdIJTngSEI5VcAm-nyw&usqp=CAU"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 20,
@@ -274,8 +274,8 @@
             "images": [
                 "https://api.time.com/wp-content/uploads/2019/12/Teddy-Bear.jpg"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 70,
+            "discount": 40
         },
         {
             "id": 21,
@@ -284,8 +284,8 @@
             "images": [
                 "https://i5.walmartimages.com/asr/14132443-17ab-49e1-98f7-16ad97706690_1.9417839dc6954ccf0ebd8ee60b72e79a.jpeg"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 22,
@@ -294,8 +294,8 @@
             "images": [
                 "https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dwdac83d3c/24663x.jpg?sw=600&sh=600&sm=fit&q=70"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 23,
@@ -304,8 +304,8 @@
             "images": [
                 "https://image.made-in-china.com/44f3j00pVATkuoqfJry/0cm-Super-Cute-Teddy-Bear-Plush-Toys-Doll-Lovely-Couple-Bear-Stuffed-Animal-Christmas-Birthday-Gifts-Toy.jpg"
             ],
-            "price": 7000,
-            "discount": 4000
+            "price": 700,
+            "discount": 400
         },
         {
             "id": 24,
@@ -314,8 +314,8 @@
             "images": [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPLBsW9p-5_SMwYqMkylnp1E6spNSN1mRUQ&usqp=CAU"
             ],
-            "price": 74000,
-            "discount": 47000
+            "price": 740,
+            "discount": 470
         },
         {
             "id": 25,
@@ -324,8 +324,8 @@
             "images": [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9mucRom4OtbFGM1OWilJraZaGjfX5ybK9A&usqp=CAU"
             ],
-            "price": 74000,
-            "discount": 47000
+            "price": 74,
+            "discount": 40
         },
         {
             "id": 26,
@@ -334,8 +334,8 @@
             "images": [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScfomdwzqJh65RB7OP4cN96LWgpD4Ex8J0MA&usqp=CAU"
             ],
-            "price": 74000,
-            "discount": 47000
+            "price": 740,
+            "discount": 470
         },
         {
             "id": 27,
@@ -344,8 +344,8 @@
             "images": [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTv1FJ2nCHLw6SW3_xJuZvjUj7PdfM450gVw&usqp=CAU"
             ],
-            "price": 74000,
-            "discount": 47000
+            "price": 740,
+            "discount": 470
         },
         {
             "id": 28,
@@ -354,8 +354,8 @@
             "images": [
                 "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MHLM3?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1623348211000"
             ],
-            "price": 30000,
-            "discount": 22000
+            "price": 30,
+            "discount": 22
         },
         {
             "id": 29,
@@ -364,8 +364,8 @@
             "images": [
                 "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWVU2?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1590688532000"
             ],
-            "price": 30000,
-            "discount": 22000
+            "price": 300,
+            "discount": 220
         },
         {
             "id": 30,
@@ -374,8 +374,8 @@
             "images": [
                 "https://image.shopmoment.com/resizer?quality=75&width=600&image=https://image.shopmoment.com/general/iPh13_Moment_Black_1.jpg"
             ],
-            "price": 30000,
-            "discount": 22000
+            "price": 30,
+            "discount": 22
         },
         {
             "id": 31,
@@ -384,8 +384,8 @@
             "images": [
                 "https://bellroy-product-images.imgix.net/advertising_shopping_feed_image/USD/PCAD-RAG-122/0?w=500&h=500&fit=clamp&crop=entropy&auto=format"
             ],
-            "price": 30000,
-            "discount": 22000
+            "price": 300,
+            "discount": 220
         }
     ]
 }
